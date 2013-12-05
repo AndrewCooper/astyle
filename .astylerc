@@ -1,0 +1,16 @@
+--verbose
+--style=allman 
+--add-brackets
+--align-pointer=type
+--align-reference=type
+--break-blocks
+--convert-tabs
+--indent-col1-comments
+--indent=spaces=4
+--indent-switches
+--max-instatement-indent=120
+--pad-oper
+--pad-paren-in
+--suffix=none
+--unpad-paren
+
